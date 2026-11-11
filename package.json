@@ -1,0 +1,14 @@
+{
+  "name": "teste-saucedemo-cypress",
+  "version": "1.0.0",
+  "description": "Teste automatizado E2E no SauceDemo com Cypress + JavaScript",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Jefferson Sena",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
